@@ -1,0 +1,14 @@
+fare_id,price,payment_method,transfers,transfer_duration,currency_type,agency_id
+St Albert Transit Commuter, 6.00, 0,,5400, CAD,2
+St Albert Transit Local, 3.25, 0,,5400, CAD,2
+ETS Fare, 3.50, 0,,5400, CAD,2
+Strathcona Transit Local, 3.25, 0,,5400, CAD,4
+Strathcona Transit Commuter, 6.25, 0,,5400, CAD,4
+Interregion to St Albert, 6.20, 0,,5400, CAD,4
+Interregion to Strathcona, 6.00, 0,,5400, CAD,2
+Spruce Grove 560,6.25,0,0,,CAD,1
+Spruce Grove In Edmonton,6.25,0,0,,CAD,1
+Fort Saskatchewan 580,5.00,0,0,,CAD,1
+Airport,5.00,0,0,,CAD,1
+STAB in Edmonton, 3.50, 0,,5400, CAD,2
+SCT in Edmonton, 3.50, 0,,5400, CAD,4

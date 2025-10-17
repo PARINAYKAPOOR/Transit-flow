@@ -1,0 +1,16 @@
+fare_id,route_id,origin_id,destination_id,contains_id
+St Albert Transit Commuter,,,,1EDM
+St Albert Transit Commuter,,,,2STA
+St Albert Transit Local,,2STA,2STA,
+ETS Fare,,1EDM,1EDM,
+Strathcona Transit Commuter,,,,1EDM
+Strathcona Transit Commuter,,,,4SCT
+Strathcona Transit Local,,4SCT,4SCT,
+Interregion to St Albert,,4SCT,2STA,
+Interregion to Strathcona,,2STA,4SCT,
+Spruce Grove 560,560,,,
+Spruce Grove In Edmonton,560,1EDM,1EDM,
+Fort Saskatchewan 580,560,,,
+Airport,747,,,
+STAB in Edmonton,,1EDM,1EDM,
+SCT in Edmonton,,1EDM,1EDM,
